@@ -2,6 +2,8 @@ import React from 'react'
 
 export function index() {
   return (
-    <div>index</div>
+    <div>
+      <p>Paragráfo da Sprint</p>
+    </div>
   )
 }
